@@ -1,0 +1,9 @@
+SET(SOURCES screens/ui_ScaleScreen.c
+    screens/ui_OptionScreen.c
+    screens/ui_InputScreen.c
+    screens/ui_InfoScreen.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c)
+
+add_library(ui ${SOURCES})

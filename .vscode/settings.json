@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "lvgl.h": "c",
+        "scanwifi_info.h": "c",
+        "stdbool.h": "c",
+        "arduino.h": "c",
+        "wifi.h": "c",
+        "wire.h": "c",
+        "random": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ui.h": "c",
+        "memory": "cpp",
+        "optional": "cpp",
+        "*.tcc": "cpp",
+        "cstdlib": "cpp",
+        "cmath": "cpp",
+        "new": "cpp"
+    }
+}
